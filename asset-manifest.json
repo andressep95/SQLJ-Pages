@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/andressep95/SQLJ-Pages/static/css/main.9ac83bc0.css",
-    "main.js": "/andressep95/SQLJ-Pages/static/js/main.3730a476.js",
-    "index.html": "/andressep95/SQLJ-Pages/index.html",
-    "main.9ac83bc0.css.map": "/andressep95/SQLJ-Pages/static/css/main.9ac83bc0.css.map",
-    "main.3730a476.js.map": "/andressep95/SQLJ-Pages/static/js/main.3730a476.js.map"
+    "main.css": "/SQLJ-Pages/static/css/main.9ac83bc0.css",
+    "main.js": "/SQLJ-Pages/static/js/main.3730a476.js",
+    "index.html": "/SQLJ-Pages/index.html",
+    "main.9ac83bc0.css.map": "/SQLJ-Pages/static/css/main.9ac83bc0.css.map",
+    "main.3730a476.js.map": "/SQLJ-Pages/static/js/main.3730a476.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac83bc0.css",
