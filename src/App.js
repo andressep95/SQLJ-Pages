@@ -198,9 +198,9 @@ public class Orders {
                     ["BIGINT", "Long"],
                     ["VARCHAR, TEXT", "String"],
                     ["BOOLEAN", "Boolean"],
-                    ["DATE", "java.sql.Date"],
-                    ["TIME", "java.sql.Time"],
-                    ["TIMESTAMP", "java.sql.Timestamp"],
+                    ["DATE", "java.time.LocalDate"],
+                    ["TIME", "java.time.LocalTime"],
+                    ["TIMESTAMP", "java.time.LocalDateTime"],
                     ["DECIMAL, NUMERIC", "java.math.BigDecimal"],
                     ["REAL, FLOAT4", "Float"],
                     ["DOUBLE PRECISION, FLOAT8", "Double"]
