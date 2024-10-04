@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SQLJ-Pages/static/css/main.c26beb12.css",
-    "main.js": "/SQLJ-Pages/static/js/main.3730a476.js",
+    "main.js": "/SQLJ-Pages/static/js/main.19ec8ca8.js",
     "index.html": "/SQLJ-Pages/index.html",
     "main.c26beb12.css.map": "/SQLJ-Pages/static/css/main.c26beb12.css.map",
-    "main.3730a476.js.map": "/SQLJ-Pages/static/js/main.3730a476.js.map"
+    "main.19ec8ca8.js.map": "/SQLJ-Pages/static/js/main.19ec8ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.c26beb12.css",
-    "static/js/main.3730a476.js"
+    "static/js/main.19ec8ca8.js"
   ]
 }
